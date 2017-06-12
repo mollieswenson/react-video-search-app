@@ -1,3 +1,5 @@
-The React/JSX components I wrote are in /src/components
+The React components are in /src/components
 
-I took a stab at documenting them here: <a href="">link</a> *This documentation's a learning process and is a little rough at this point.* 
+I took a stab at <a href="">documenting them here</a>. *This documentation's a learning process so it's a little rough at this point.* 
+
+I created this app as part of the Udemy course <a href="https://www.udemy.com/react-redux/learn/v4/content">Modern React with Redux</a>.
