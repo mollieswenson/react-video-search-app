@@ -4,7 +4,9 @@ This video search app makes calls to the YouTube API and updates the search resu
 
 ## [Component documentation](React%20video%20search%20app%20documentation.pdf)
 
-This [pdf](React%20video%20search%20app%20documentation.pdf) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions.
+This [React component wiki](https://github.com/mollieswenson/react-video-search-app/wiki) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions. 
+
+Also available as a [pdf](React%20video%20search%20app%20documentation.pdf).
 
 ## React code
 
